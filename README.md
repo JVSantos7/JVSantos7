@@ -4,8 +4,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jussandro Vítor Santos, tenho 27 anos e sou natural de João Pessoa(PB). Possuo experiência em fábrica de software, onde atuei no desenvolvimento de interfaces web responsivas, com foco em usabilidade e experiência do usuário, além da implementação de funcionalidades utilizando React para tornar as aplicações mais interativas e dinâmicas. Atualmente, curso Sistemas para Internet na UNIPÊ, com foco em desenvolvimento web e constante evolução técnica.
-
 <div align="center">
 <table>
   <tr>
